@@ -174,5 +174,4 @@ https://api.telegram.org/bot<token>/setwebhook?url=https://Pvresan-pvresan.rhclo
 ----------------------------------------------
 
 # Developers
-* [mute-team](https://t.me/joinchat/AAAAAEJT_SOKnYX5_h5b5A) - Channel
-* [@oOo_2017_oOo](https://t.me/oOo_2017_oOo) - amirhosein
+* [Amir Ho3in](https://telegram.me/Amir_Ho3in051) 
